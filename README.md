@@ -1,3 +1,6 @@
+# Front-end usando o Angular 
+Baseado no curso da DIO por Nathalia Corrêa, [API aqui](https://github.com/naatscs/DIO-LiveCoding-Api-GETProducts)
+
 # BookstoreAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
